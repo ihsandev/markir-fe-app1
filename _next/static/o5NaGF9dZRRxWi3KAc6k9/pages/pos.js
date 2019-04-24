@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{820:function(n,t,e){__NEXT_REGISTER_PAGE("/pos",function(){return n.exports=e(821),{page:n.exports.default}})},821:function(n,t,e){"use strict";e.r(t);var u=e(1),o=(e(2),e(25)),c=e(24);t.default=function(){return Object(u.b)(o.a,null,Object(u.b)(c.h,null))}}},[[820,1,0]]]);
