@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{808:function(n,t,e){__NEXT_REGISTER_PAGE("/masterData/parkingDuration",function(){return n.exports=e(809),{page:n.exports.default}})},809:function(n,t,e){"use strict";e.r(t);var u=e(1),a=(e(2),e(25)),r=e(24);t.default=function(){return Object(u.b)(a.a,null,Object(u.b)(r.g,null))}}},[[808,1,0]]]);

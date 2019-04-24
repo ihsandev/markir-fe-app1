@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{810:function(n,t,e){__NEXT_REGISTER_PAGE("/masterData/position",function(){return n.exports=e(811),{page:n.exports.default}})},811:function(n,t,e){"use strict";e.r(t);var o=e(1),u=(e(2),e(25)),a=e(24);t.default=function(){return Object(o.b)(u.a,null,Object(o.b)(a.i,null))}}},[[810,1,0]]]);

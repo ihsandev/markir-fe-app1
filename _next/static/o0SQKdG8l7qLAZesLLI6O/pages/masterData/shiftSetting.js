@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{814:function(t,n,e){__NEXT_REGISTER_PAGE("/masterData/shiftSetting",function(){return t.exports=e(815),{page:t.exports.default}})},815:function(t,n,e){"use strict";e.r(n);var u=e(1),a=(e(2),e(25)),o=e(24);n.default=function(){return Object(u.b)(a.a,null,Object(u.b)(o.k,null))}}},[[814,1,0]]]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{806:function(n,t,e){__NEXT_REGISTER_PAGE("/masterData/howToOrder",function(){return n.exports=e(807),{page:n.exports.default}})},807:function(n,t,e){"use strict";e.r(t);var o=e(1),r=(e(2),e(25)),u=e(24);t.default=function(){return Object(o.b)(r.a,null,Object(o.b)(u.d,null))}}},[[806,1,0]]]);
