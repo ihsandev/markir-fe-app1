@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{804:function(e,n,t){__NEXT_REGISTER_PAGE("/listOfEmployee/addEmployee",function(){return e.exports=t(805),{page:e.exports.default}})},805:function(e,n,t){"use strict";t.r(n);var o=t(1),u=(t(2),t(25)),p=t(24);n.default=function(){return Object(o.b)(u.a,null,Object(o.b)(p.a,null))}}},[[804,1,0]]]);
