@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{808:function(t,n,e){__NEXT_REGISTER_PAGE("/masterData/forfeit",function(){return t.exports=e(809),{page:t.exports.default}})},809:function(t,n,e){"use strict";e.r(n);var u=e(1),o=(e(2),e(25)),r=e(24);n.default=function(){return Object(u.b)(o.a,null,Object(u.b)(r.c,null))}}},[[808,1,0]]]);

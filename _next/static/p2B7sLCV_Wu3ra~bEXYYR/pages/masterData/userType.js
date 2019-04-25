@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{820:function(n,t,e){__NEXT_REGISTER_PAGE("/masterData/userType",function(){return n.exports=e(821),{page:n.exports.default}})},821:function(n,t,e){"use strict";e.r(t);var u=e(1),r=(e(2),e(25)),a=e(24);t.default=function(){return Object(u.b)(r.a,null,Object(u.b)(a.l,null))}}},[[820,1,0]]]);

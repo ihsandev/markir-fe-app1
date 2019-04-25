@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{822:function(e,n,t){__NEXT_REGISTER_PAGE("/masterData/vehicleType",function(){return e.exports=t(823),{page:e.exports.default}})},823:function(e,n,t){"use strict";t.r(n);var u=t(1),a=(t(2),t(25)),c=t(24);n.default=function(){return Object(u.b)(a.a,null,Object(u.b)(c.m,null))}}},[[822,1,0]]]);
